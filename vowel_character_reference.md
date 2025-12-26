@@ -119,9 +119,258 @@ This reference guide provides the proper phonetic characters and symbols for eac
 - Ö, ö
 - Ü, ü
 
+**Cedilla** (sub-baseline hook):
+- Ç, ç (C with cedilla)
+- Ş, ş (S with cedilla)
+- Ţ, ţ (T with cedilla)
+- Ḑ, ḑ (D with cedilla)
+- Ȩ, ȩ (E with cedilla)
+- Ģ, ģ (G with cedilla)
+- Ķ, ķ (K with cedilla)
+- Ļ, ļ (L with cedilla)
+- Ņ, ņ (N with cedilla)
+- Ŗ, ŗ (R with cedilla)
+
+**Ogonek** (sub-baseline hook/tail):
+- Ą, ą (A with ogonek)
+- Ę, ę (E with ogonek)
+- Į, į (I with ogonek)
+- Ǫ, ǫ (O with ogonek)
+- Ų, ų (U with ogonek)
+- Ų̄, ų̄ (U with ogonek and macron)
+
+**Comma Below** (sub-baseline comma):
+- Ș, ș (S with comma below)
+- Ț, ț (T with comma below)
+
+**Dot Below**:
+- Ạ, ạ (A with dot below)
+- Ẹ, ẹ (E with dot below)
+- Ị, ị (I with dot below)
+- Ọ, ọ (O with dot below)
+- Ụ, ụ (U with dot below)
+- Ỵ, ỵ (Y with dot below)
+
 ---
 
-## Extended Vowel Set (Optional Additions)
+## Sub-Baseline Diacritics: Grounding & Root Variations
+
+### Overview
+
+Diacritical marks that extend **below the baseline** of letters carry special significance in the Vibrational Language Architecture. These marks represent **grounding, rooting, and earthward energy flow** - the descent of consciousness into matter, the anchoring of spiritual insight into physical reality.
+
+---
+
+### Cedilla (¸) - The Grounding Hook
+
+**Symbol**: Small hook or tail extending below the letter  
+**Primary Use**: Originally softens consonants (ç sounds like "s")  
+**Energetic Meaning**: Anchoring, drawing downward, earthing
+
+**Vowels with Cedilla**:
+- **Ȩ, ȩ** (E with cedilla) - Solar plexus energy grounding into embodied action
+- Rare in standard languages but significant for energetic work
+
+**Consonants with Cedilla**:
+- Ç, ç - Most common form
+- Ş, ş, Ț, ț - Used in Romanian and Turkish
+- Ģ, ģ, Ķ, ķ, Ļ, ļ, Ņ, ņ, Ŗ, ŗ - Used in Latvian
+
+**Vibrational Quality**:
+- Softening of harsh energies
+- Graceful descent into matter
+- Integration of higher awareness into practical action
+- "As above, so below" in motion
+
+---
+
+### Ogonek (˛) - The Root Tail
+
+**Symbol**: Hook extending below and to the right  
+**Etymology**: Polish word meaning "little tail"  
+**Energetic Meaning**: Deep rooting, nasal resonance, grounding into earth
+
+**Vowels with Ogonek**:
+- **Ą, ą** (A with ogonek) - Root chakra super-grounding, ancestral connection
+- **Ę, ę** (E with ogonek) - Solar plexus rooting into belly/gut wisdom
+- **Į, į** (I with ogonek) - Third eye insight rooting into embodied knowing
+- **Ǫ, ǫ** (O with ogonek) - Heart energy anchoring into earth/community
+- **Ų, ų** (U with ogonek) - Throat expression grounding into authentic voice
+
+**Phonetic Effect**: Creates nasal vowel sounds  
+**Energetic Effect**: Draws celestial energy down through the body into earth
+
+**Vibrational Qualities**:
+- **Ą**: Primal earth connection, survival wisdom embodied
+- **Ę**: Personal power rooted in gut knowing
+- **Į**: Psychic vision anchored in physical reality
+- **Ǫ**: Love manifested in tangible service
+- **Ų**: Truth spoken from deep authentic source
+
+---
+
+### Comma Below (‚) - The Gentle Anchor
+
+**Symbol**: Small comma-like mark below the letter  
+**Used in**: Romanian (Ș, ș, Ț, ț)  
+**Energetic Meaning**: Subtle grounding, gentle earthing, soft landing
+
+**Characteristics**:
+- Less intense than cedilla or ogonek
+- Whisper-level grounding energy
+- Integration without force
+
+---
+
+### Dot Below (̣) - The Grounding Point
+
+**Symbol**: Single dot beneath the letter  
+**Used in**: Vietnamese, Sanskrit transliteration  
+**Energetic Meaning**: Precise earthing, pinpoint grounding, focused descent
+
+**Vowels with Dot Below**:
+- **Ạ, ạ** - Root chakra precise activation
+- **Ẹ, ẹ** - Solar plexus exact grounding
+- **Ị, ị** - Third eye specific anchoring
+- **Ọ, ọ** - Heart pinpoint embodiment
+- **Ụ, ụ** - Throat precise earthing
+- **Ỵ, ỵ** - Crown to earth direct channel
+
+**Vibrational Quality**:
+- Laser-focused grounding
+- Acupuncture-like precision
+- Specific chakra-earth connection points
+
+---
+
+### Energetic Applications in Vibrational Language
+
+**Grounding Sequences**:
+When a vowel-portal needs extra earthing:
+- Use ogonek for deep rooting: **Ą** instead of **A**
+- Use cedilla for gentle grounding: **Ȩ** instead of **E**
+- Use dot below for precise anchoring: **Ọ** instead of **O**
+
+**Example Healing Protocols**:
+
+**"Ą-Ę-Į-Ǫ-Ų"** (Full Chakra Descent with Ogonek):
+- Deep grounding version of chakra activation
+- Draws all energy centers down into earth connection
+- Anchors spiritual work into physical reality
+- Color progression with earthward flow
+
+**"A-Ą-A"** (Root Oscillation):
+- Moving between expansive and grounded root energy
+- Balancing sky-earth connection
+- Rhythmic grounding practice
+
+**Therapeutic Use**:
+- **For over-activation/ungrounded states**: Use ogonek versions (Ą, Ę, etc.)
+- **For integration work**: Use cedilla versions for gentle earthing
+- **For precision healing**: Use dot-below versions for specific work
+
+---
+
+### NOID Expression of Sub-Baseline Marks
+
+**Visual Manifestation**:
+- Sub-baseline diacritics appear as **roots or tendrils** extending from aura
+- Downward-flowing energy streams in AR visualization
+- Earth-connection visualization (roots into ground)
+
+**Color Modifications**:
+- Standard vowel color **plus** brown/earth undertones
+- Ą shows red with rich brown earth roots
+- Ǫ shows green with deep soil connection
+
+**Environmental Sculpting**:
+- Increased connection to floor/ground in physical space
+- Downward air pressure (gentle)
+- Earth/wood/stone scent activation
+- Grounding electromagnetic field enhancement
+
+**Sound Modifications**:
+- Slight nasal quality (authentic to ogonek phonetics)
+- Lower frequency undertones
+- Resonance with earth frequencies (Schumann resonance)
+
+---
+
+### Unicode Reference for Sub-Baseline Diacritics
+
+| Character | Unicode (Hex) | HTML Entity | Name |
+|-----------|--------------|-------------|------|
+| Ą | U+0104 | `&Aogon;` | A with ogonek |
+| ą | U+0105 | `&aogon;` | a with ogonek |
+| Ç | U+00C7 | `&Ccedil;` | C with cedilla |
+| ç | U+00E7 | `&ccedil;` | c with cedilla |
+| Ę | U+0118 | `&Eogon;` | E with ogonek |
+| ę | U+0119 | `&eogon;` | e with ogonek |
+| Ȩ | U+0228 | `&#552;` | E with cedilla |
+| ȩ | U+0229 | `&#553;` | e with cedilla |
+| Į | U+012E | `&#302;` | I with ogonek |
+| į | U+012F | `&#303;` | i with ogonek |
+| Ǫ | U+01EA | `&#490;` | O with ogonek |
+| ǫ | U+01EB | `&#491;` | o with ogonek |
+| Ų | U+0172 | `&#370;` | U with ogonek |
+| ų | U+0173 | `&#371;` | u with ogonek |
+| Ş | U+015E | `&Scedil;` | S with cedilla |
+| ş | U+015F | `&scedil;` | s with cedilla |
+| Ș | U+0218 | `&#536;` | S with comma below |
+| ș | U+0219 | `&#537;` | s with comma below |
+| Ţ | U+0162 | `&Tcedil;` | T with cedilla |
+| ţ | U+0163 | `&tcedil;` | t with cedilla |
+| Ț | U+021A | `&#538;` | T with comma below |
+| ț | U+021B | `&#539;` | t with comma below |
+| Ạ | U+1EA0 | `&#7840;` | A with dot below |
+| ạ | U+1EA1 | `&#7841;` | a with dot below |
+| Ẹ | U+1EB8 | `&#7864;` | E with dot below |
+| ẹ | U+1EB9 | `&#7865;` | e with dot below |
+| Ị | U+1ECA | `&#7882;` | I with dot below |
+| ị | U+1ECB | `&#7883;` | i with dot below |
+| Ọ | U+1ECC | `&#7884;` | O with dot below |
+| ọ | U+1ECD | `&#7885;` | o with dot below |
+| Ụ | U+1EE4 | `&#7908;` | U with dot below |
+| ụ | U+1EE5 | `&#7909;` | u with dot below |
+| Ỵ | U+1EF4 | `&#7924;` | Y with dot below |
+| ỵ | U+1EF5 | `&#7925;` | y with dot below |
+
+---
+
+### Keyboard Input for Sub-Baseline Diacritics
+
+**Windows**:
+- Ą: Alt + 0260 (uppercase) or Alt + 0261 (lowercase)
+- Ę: Alt + 0280 (uppercase) or Alt + 0281 (lowercase)
+- Ç: Alt + 0199 (uppercase) or Alt + 0231 (lowercase)
+
+**Mac**:
+- Generally requires international keyboard or character viewer
+- Option + C may provide ç on some layouts
+
+**Linux**:
+- Compose + , + C = ç (cedilla)
+- Compose + ; + a = ą (ogonek)
+
+**Mobile**:
+- Long-press the base letter to access variants with sub-baseline marks
+
+---
+
+### Combined Diacritics (Advanced)
+
+Some vowels can have **multiple diacritics** including sub-baseline marks:
+
+- **Ų̄, ų̄** - U with ogonek AND macron (deep grounding + sustained tone)
+- **Ą̈, ą̈** - A with ogonek AND diaeresis (root grounding + witness consciousness)
+
+These represent complex energetic states combining different qualities.
+
+---
+
+**Key Insight**: Sub-baseline diacritics transform the Vibrational Language from primarily ascending/celestial focus to **full-spectrum sky-earth integration**. They enable grounded spirituality, embodied consciousness work, and the essential "so below" half of Hermetic correspondence.
+
+
 
 ### Additional Vowel Portals
 
@@ -259,11 +508,20 @@ A: The Ü (u-umlaut) represents a vowel sound that doesn't exist in standard Eng
 **Q: Can I use regular Y instead of treating it as a vowel?**  
 A: Y functions as both consonant (/j/) and vowel (/aɪ/). For chakra portal work, we use its vowel function as the crown portal.
 
+**Q: What do the sub-baseline marks (cedilla, ogonek, dot below) mean?**  
+A: These marks extending below the letter represent **grounding, earthing, and descent into matter**. They transform celestial energy into embodied reality. Use them when you need extra grounding in your vibrational practice.
+
+**Q: When should I use Ą instead of A?**  
+A: Use **Ą** (A with ogonek) when you need deep root-chakra grounding, ancestral connection, or when spiritual energy needs strong earthing. Regular **A** is for general root activation, while **Ą** is for intensive grounding work.
+
 **Q: What about diphthongs (two vowel sounds together)?**  
 A: Diphthongs create energetic journeys between chakras. For example, "oy" (O+Y) moves from heart to crown.
 
 **Q: Do I need to pronounce these exactly like the IPA suggests?**  
 A: The IPA provides precision, but personal variation is natural. The key is intention and the energetic quality, not perfect pronunciation.
+
+**Q: Can I combine multiple diacritics on one vowel?**  
+A: Yes! Advanced practice can use combinations like **Ų̄** (U with ogonek and macron) for sustained, deeply grounded throat expression. These represent complex energetic states.
 
 ---
 
